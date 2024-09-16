@@ -6,9 +6,9 @@ function togglemode() {
   
   if(html.classList.contains("light")) {
     
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./Ramon-light.png")
   } else {
     
-    img.setAttribute("src", "./assets/avatar.dark.png")
+    img.setAttribute("src", "./Ramon.png")
   }
 }
